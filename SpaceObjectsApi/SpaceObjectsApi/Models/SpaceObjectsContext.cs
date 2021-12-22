@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace SpaceObjectsApi.Models
+namespace SpaceChecker.Models
 {
     public class SpaceObjectsContext : DbContext
     {

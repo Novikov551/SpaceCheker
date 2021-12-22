@@ -1,10 +1,10 @@
-﻿using SpaceObjectsApi.Models;
+﻿using SpaceChecker.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SpaceObjectsApi.Repository.Interface
+namespace SpaceChecker.Repository.Interface
 {
     public interface IRepository
     {

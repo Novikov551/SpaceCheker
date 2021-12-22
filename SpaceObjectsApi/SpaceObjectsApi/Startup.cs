@@ -8,11 +8,11 @@ using Microsoft.OpenApi;
 using Microsoft.OpenApi.Models;
 using Newtonsoft.Json.Serialization;
 
-using SpaceObjectsApi.Models;
-using SpaceObjectsApi.Repository;
-using SpaceObjectsApi.Repository.Interface;
+using SpaceChecker.Models;
+using SpaceChecker.Repository;
+using SpaceChecker.Repository.Interface;
 
-namespace SpaceObjectsApi
+namespace SpaceChecker
 {
     public class Startup
     {

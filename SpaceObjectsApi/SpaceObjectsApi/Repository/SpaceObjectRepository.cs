@@ -1,11 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SpaceObjectsApi.Models;
-using SpaceObjectsApi.Repository.Interface;
+using SpaceChecker.Models;
+using SpaceChecker.Repository.Interface;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SpaceObjectsApi.Repository
+namespace SpaceChecker.Repository
 {
     public class SpaceObjectRepository : IRepository
     {

@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using SpaceObjectsApi.Models;
 using SpaceObjectsApi.Repository.Interface;
 
-namespace SpaceObjectsApi.Controllers
+namespace SpaceChecker.Controllers
 {
     [Route("api/[controller]")]
     public class AsteroidsController : Controller
